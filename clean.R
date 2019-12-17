@@ -16,12 +16,12 @@
 #################################################################################
 
 # Set up root directories
-root <- "C:/Users/hyork/Desktop/child_mort_dir" ## replace with directory on host computer
+root <- "J:/WORK/01_covariates/02_inputs/education/update_2019/code/child_mort_dir/" ## replace with directory on host computer
 input_dir <- paste0(root, "/inputs")
-code_dir <- paste0(root, "/code")
+code_dir <- paste0(root, "/CHAIN_IHME_under5_sysreview")
 
 # 
-locs <- fread(paste0("J:/temp/hyork/gbd_2020_locs.csv"))
+locs <- fread(paste0(code_dir, "/locs.csv"))
 locs <- locs[level == 3]
 
 # install libraries and load them
@@ -267,102 +267,17 @@ for(c.citation in unique(working_data$field_citation_value_substr)){
 }
 dev.off()
 
+############################################
+## Create Maps of data availability
+############################################
 
-#################################################################################
-## crosswalk unstandardized data ##
-#################################################################################
-# 
-# source(paste0(code_dir, "/dhs_crosswalk.R"))
-# 
-# 
-# 
-# #apply function to all unstandardized data
-# working_data[,xwalk_unit := paste(field_citation_value, age_start, age_end, sep = "_")]
-# 
-# data_to_xwalk <- working_data[cohort_unexp_def_lower != 0 & cohort_unexp_def_upper != 0]
-# 
-# xwalked_data_list <- lapply(unique(data_to_xwalk$xwalk_unit), dhs_standardizr, c.data = data_to_xwalk, c.dhs_data= dhs_cbh_subset)
-# xwalked_data <- rbindlist(xwalked_data_list)
-# xwalked_data[,xwalked_mid_point := (xwalked_exposure_upper + xwalked_exposure_lower)/2]
-# 
-# #################################################################################
-# 
-# 
-# #for all citations and age ranges variables, create a plot of all raw effect sizes
-# xwalked_data[, seq := 1:nrow(xwalked_data)]
-# xwalked_data[,effect_size := as.numeric(effect_size)]
-# xwalked_data[,upper := as.numeric(upper)]
-# xwalked_data[,lower := as.numeric(lower)]
-# 
-# ##rbind xwalked data and data that didn't need to be
-# gold_std_data <- working_data[cohort_unexp_def_lower == 0 & cohort_unexp_def_upper == 0]
-# gold_std_data[,xwalked_exposure_upper := cohort_exp_def_upper]
-# gold_std_data[,xwalked_exposure_lower := cohort_exp_def_lower]
-# gold_std_data[,xwalked_mid_point := (xwalked_exposure_upper + xwalked_exposure_lower)/2]
-# gold_std_data[,crosswalked_upper :=  as.numeric(upper)]
-# gold_std_data[,crosswalked_lower :=   as.numeric(lower)]
-# gold_std_data[,crosswalked_effect :=   as.numeric(effect_size)]
-# 
-# processed_data <- rbind(gold_std_data,xwalked_data, fill = T)
-# ggplot(processed_data) + 
-#   geom_errorbar(aes(x = xwalked_mid_point, ymax = crosswalked_upper, ymin = crosswalked_lower)) + 
-#   geom_errorbarh(aes(xmin = xwalked_exposure_lower, xmax = xwalked_exposure_upper, y = crosswalked_effect)) + 
-#   xlim(0,20) + ylim(0,1)
-# 
-# 
-# dir.create(paste0(root, "/visuals"))
-# pdf(paste0(root, "/visuals/xwalked_data_post_clean_by_citation.pdf"), onefile = T, width = 10, height = 8)
-# 
-# for(c.citation in unique(xwalked_data$field_citation_value)){
-#   for(c.age_range in unique(xwalked_data[field_citation_value == c.citation]$age_interval)){
-#     print(c(c.citation, c.age_range))
-#     c.ref_cat <- xwalked_data[field_citation_value == c.citation & age_interval == c.age_range][1][,clean_cohort_unexp_def]
-#     c.ref_lower <- xwalked_data[field_citation_value == c.citation & age_interval == c.age_range][1][,cohort_unexp_def_lower]
-#     c.ref_upper <- xwalked_data[field_citation_value == c.citation & age_interval == c.age_range][1][,cohort_unexp_def_upper]
-#     c.ref_mid <- (c.ref_lower + c.ref_upper)/2
-#     gg <- ggplot(xwalked_data[field_citation_value == c.citation & age_interval == c.age_range], group = seq)+
-#       geom_errorbarh(aes(xmax = cohort_exp_def_upper,
-#                          xmin = cohort_exp_def_lower,
-#                          y = effect_size, 
-#                          x = cohort_exp_def_mid), height = 0, color = "blue") +
-#       geom_errorbar(aes(x = cohort_exp_def_mid, 
-#                         ymax = upper,
-#                         ymin = lower,
-#                         group = seq),
-#                     width = 0,
-#                     position = position_dodge(width = .5), color = "blue") +
-#       geom_errorbarh(aes(xmax = xwalked_exposure_upper,
-#                          xmin = xwalked_exposure_lower,
-#                          y = crosswalked_effect, 
-#                          x = xwalked_mid_point), height = 0, color = "red") +
-#       geom_errorbar(aes(x = xwalked_mid_point, 
-#                         ymax = crosswalked_upper,
-#                         ymin = crosswalked_lower,
-#                         group = seq),
-#                     width = 0,
-#                     position = position_dodge(width = .5), color = "red") +
-#       labs(title = paste0("Reference Category (Unexposed Group):\n", c.ref_cat, " years of Education\n", c.age_range, "\n", c.citation), x = "Exposure Interval", y = "Effect Size") + 
-#       geom_abline(slope = 0, 
-#                   intercept = 1,
-#                   linetype = "dashed") +
-#       geom_vline(xintercept = c.ref_mid, color = "red", linetype = "dotted", size = 1)+
-#       theme_bw() + 
-#       xlim(0,20) + 
-#       annotate("rect",xmin=c.ref_lower, xmax=c.ref_upper, ymin=-Inf, ymax=Inf ,fill = "red", alpha = .05)+
-#       scale_color_brewer(palette="Dark2")
-#     print(gg)
-#   } 
-# }
-# dev.off()
-# 
-# ##create map
-# unique_locs <- unique(working_data[,.(substr(field_citation_value,1,20), location_name)])
-# unique_locs[,ihme_loc_id := tstrsplit(location_name, "|", keep = 2, fixed = T)]
-# unique_locs[, ihme_loc_id := substr(ihme_loc_id, 1,3)]
-# counts_by_ihme_loc_id <- unique_locs[,.N, by = ihme_loc_id]
-# setnames(counts_by_ihme_loc_id, "N", "mapvar")
-# source("J:/DATA/SHAPE_FILES/GBD_geographies/master/GBD_2016/inset_maps/noSubs/GBD_WITH_INSETS_MAPPING_FUNCTION.R")
-# pdf(paste0(root, "/visuals/data_map.pdf"), onefile = T, width = 10, height = 8)
-# 
-# gbd_map(counts_by_ihme_loc_id[ihme_loc_id %in% locs$ihme_loc_id], limits = c(1,2,3,4,5,10,20))
-# dev.off()
+unique_locs <- unique(working_data[,.(substr(field_citation_value,1,20), location_name)])
+unique_locs[,ihme_loc_id := tstrsplit(location_name, "|", keep = 2, fixed = T)]
+unique_locs[, ihme_loc_id := substr(ihme_loc_id, 1,3)]
+counts_by_ihme_loc_id <- unique_locs[,.N, by = ihme_loc_id]
+setnames(counts_by_ihme_loc_id, "N", "mapvar")
+source("J:/DATA/SHAPE_FILES/GBD_geographies/master/GBD_2016/inset_maps/noSubs/GBD_WITH_INSETS_MAPPING_FUNCTION.R")
+pdf(paste0(root, "/visuals/data_map.pdf"), onefile = T, width = 10, height = 8)
+
+gbd_map(counts_by_ihme_loc_id[ihme_loc_id %in% locs$ihme_loc_id], limits = c(1,2,3,4,5,10,20))
+dev.off()
