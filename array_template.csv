@@ -1,0 +1,1369 @@
+survey_id,new_var
+ZAF2016,""
+BEN2017,""
+HTI2016,""
+MDV2016,""
+TUR2013,""
+PAK2017,""
+JOR2017,""
+ALB2017,""
+GIN2018,""
+MLI2018,""
+NGA2018,""
+NAM2013,""
+EGY2014,""
+BGD2014,""
+KHM2014,""
+TCD2014,""
+GHA2014,""
+GTM2014,""
+KEN2014,""
+LSO2014,""
+MMR2015,""
+RWA2014,""
+CIV2011,""
+ALB2008,""
+ARM2005,""
+AZE2006,""
+BGD2004,""
+BGD2007,""
+BEN2006,""
+BOL2003,""
+BFA2003,""
+BFA2010,""
+KHM2005,""
+CMR2004,""
+CMR2011,""
+TCD2004,""
+COL2004,""
+COD2007,""
+COG2005,""
+EGY2005,""
+ETH2005,""
+GHA2003,""
+GIN2005,""
+HTI2005,""
+HND2005,""
+IND2005,""
+JOR2007,""
+KEN2003,""
+LSO2004,""
+LBR2006,""
+MDG2003,""
+MWI2004,""
+MLI2006,""
+MDA2005,""
+MAR2003,""
+MOZ2003,""
+NAM2006,""
+NPL2006,""
+NER2006,""
+NGA2003,""
+RWA2005,""
+SWZ2006,""
+TZA2004,""
+TUR2003,""
+UGA2006,""
+ZMB2007,""
+ZWE2005,""
+GHA2008,""
+NPL2011,""
+SLE2008,""
+TLS2009,""
+COL2009,""
+ETH2010,""
+MDV2009,""
+TZA2009,""
+GUY2009,""
+KEN2008,""
+LSO2009,""
+MWI2010,""
+MDG2008,""
+NGA2008,""
+ARM2015,""
+ETH2016,""
+MWI2015,""
+TZA2015,""
+EGY2008,""
+SEN2005,""
+STP2008,""
+PER2009,""
+PER2010,""
+PER2011,""
+PER2012,""
+PER2003,""
+KHM2010,""
+BDI2010,""
+BGD2011,""
+MOZ2011,""
+ZWE2010,""
+UGA2011,""
+RWA2010,""
+SEN2010,""
+COG2011,""
+HTI2012,""
+GIN2012,""
+NER2012,""
+TJK2012,""
+COM2012,""
+NGA2013,""
+TGO2013,""
+JOR2012,""
+KGZ2012,""
+PAK2012,""
+BEN2011,""
+HND2011,""
+ZAF2016,wealth_index_dhs_continuous
+BEN2017,wealth_index_dhs_continuous
+HTI2016,wealth_index_dhs_continuous
+MDV2016,wealth_index_dhs_continuous
+TUR2013,wealth_index_dhs_continuous
+PAK2017,wealth_index_dhs_continuous
+JOR2017,wealth_index_dhs_continuous
+ALB2017,wealth_index_dhs_continuous
+GIN2018,wealth_index_dhs_continuous
+MLI2018,wealth_index_dhs_continuous
+NGA2018,wealth_index_dhs_continuous
+NAM2013,wealth_index_dhs_continuous
+EGY2014,wealth_index_dhs_continuous
+BGD2014,wealth_index_dhs_continuous
+KHM2014,wealth_index_dhs_continuous
+TCD2014,wealth_index_dhs_continuous
+GHA2014,wealth_index_dhs_continuous
+GTM2014,wealth_index_dhs_continuous
+KEN2014,wealth_index_dhs_continuous
+LSO2014,wealth_index_dhs_continuous
+MMR2015,wealth_index_dhs_continuous
+RWA2014,wealth_index_dhs_continuous
+CIV2011,wealth_index_dhs_continuous
+ALB2008,wealth_index_dhs_continuous
+ARM2005,wealth_index_dhs_continuous
+AZE2006,wealth_index_dhs_continuous
+BGD2004,wealth_index_dhs_continuous
+BGD2007,wealth_index_dhs_continuous
+BEN2006,wealth_index_dhs_continuous
+BOL2003,wealth_index_dhs_continuous
+BFA2003,wealth_index_dhs_continuous
+BFA2010,wealth_index_dhs_continuous
+KHM2005,wealth_index_dhs_continuous
+CMR2004,wealth_index_dhs_continuous
+CMR2011,wealth_index_dhs_continuous
+TCD2004,wealth_index_dhs_continuous
+COL2004,wealth_index_dhs_continuous
+COD2007,wealth_index_dhs_continuous
+COG2005,wealth_index_dhs_continuous
+EGY2005,wealth_index_dhs_continuous
+ETH2005,wealth_index_dhs_continuous
+GHA2003,wealth_index_dhs_continuous
+GIN2005,wealth_index_dhs_continuous
+HTI2005,wealth_index_dhs_continuous
+HND2005,wealth_index_dhs_continuous
+IND2005,wealth_index_dhs_continuous
+JOR2007,wealth_index_dhs_continuous
+KEN2003,wealth_index_dhs_continuous
+LSO2004,wealth_index_dhs_continuous
+LBR2006,wealth_index_dhs_continuous
+MDG2003,wealth_index_dhs_continuous
+MWI2004,wealth_index_dhs_continuous
+MLI2006,wealth_index_dhs_continuous
+MDA2005,wealth_index_dhs_continuous
+MAR2003,wealth_index_dhs_continuous
+MOZ2003,wealth_index_dhs_continuous
+NAM2006,wealth_index_dhs_continuous
+NPL2006,wealth_index_dhs_continuous
+NER2006,wealth_index_dhs_continuous
+NGA2003,wealth_index_dhs_continuous
+RWA2005,wealth_index_dhs_continuous
+SWZ2006,wealth_index_dhs_continuous
+TZA2004,wealth_index_dhs_continuous
+TUR2003,wealth_index_dhs_continuous
+UGA2006,wealth_index_dhs_continuous
+ZMB2007,wealth_index_dhs_continuous
+ZWE2005,wealth_index_dhs_continuous
+GHA2008,wealth_index_dhs_continuous
+NPL2011,wealth_index_dhs_continuous
+SLE2008,wealth_index_dhs_continuous
+TLS2009,wealth_index_dhs_continuous
+COL2009,wealth_index_dhs_continuous
+ETH2010,wealth_index_dhs_continuous
+MDV2009,wealth_index_dhs_continuous
+TZA2009,wealth_index_dhs_continuous
+GUY2009,wealth_index_dhs_continuous
+KEN2008,wealth_index_dhs_continuous
+LSO2009,wealth_index_dhs_continuous
+MWI2010,wealth_index_dhs_continuous
+MDG2008,wealth_index_dhs_continuous
+NGA2008,wealth_index_dhs_continuous
+ARM2015,wealth_index_dhs_continuous
+ETH2016,wealth_index_dhs_continuous
+MWI2015,wealth_index_dhs_continuous
+TZA2015,wealth_index_dhs_continuous
+EGY2008,wealth_index_dhs_continuous
+SEN2005,wealth_index_dhs_continuous
+STP2008,wealth_index_dhs_continuous
+PER2009,wealth_index_dhs_continuous
+PER2010,wealth_index_dhs_continuous
+PER2011,wealth_index_dhs_continuous
+PER2012,wealth_index_dhs_continuous
+PER2003,wealth_index_dhs_continuous
+KHM2010,wealth_index_dhs_continuous
+BDI2010,wealth_index_dhs_continuous
+BGD2011,wealth_index_dhs_continuous
+MOZ2011,wealth_index_dhs_continuous
+ZWE2010,wealth_index_dhs_continuous
+UGA2011,wealth_index_dhs_continuous
+RWA2010,wealth_index_dhs_continuous
+SEN2010,wealth_index_dhs_continuous
+COG2011,wealth_index_dhs_continuous
+HTI2012,wealth_index_dhs_continuous
+GIN2012,wealth_index_dhs_continuous
+NER2012,wealth_index_dhs_continuous
+TJK2012,wealth_index_dhs_continuous
+COM2012,wealth_index_dhs_continuous
+NGA2013,wealth_index_dhs_continuous
+TGO2013,wealth_index_dhs_continuous
+JOR2012,wealth_index_dhs_continuous
+KGZ2012,wealth_index_dhs_continuous
+PAK2012,wealth_index_dhs_continuous
+BEN2011,wealth_index_dhs_continuous
+HND2011,wealth_index_dhs_continuous
+ZAF2016,urban
+BEN2017,urban
+HTI2016,urban
+MDV2016,urban
+TUR2013,urban
+PAK2017,urban
+JOR2017,urban
+ALB2017,urban
+GIN2018,urban
+MLI2018,urban
+NGA2018,urban
+NAM2013,urban
+EGY2014,urban
+BGD2014,urban
+KHM2014,urban
+TCD2014,urban
+GHA2014,urban
+GTM2014,urban
+KEN2014,urban
+LSO2014,urban
+MMR2015,urban
+RWA2014,urban
+CIV2011,urban
+ALB2008,urban
+ARM2005,urban
+AZE2006,urban
+BGD2004,urban
+BGD2007,urban
+BEN2006,urban
+BOL2003,urban
+BFA2003,urban
+BFA2010,urban
+KHM2005,urban
+CMR2004,urban
+CMR2011,urban
+TCD2004,urban
+COL2004,urban
+COD2007,urban
+COG2005,urban
+EGY2005,urban
+ETH2005,urban
+GHA2003,urban
+GIN2005,urban
+HTI2005,urban
+HND2005,urban
+IND2005,urban
+JOR2007,urban
+KEN2003,urban
+LSO2004,urban
+LBR2006,urban
+MDG2003,urban
+MWI2004,urban
+MLI2006,urban
+MDA2005,urban
+MAR2003,urban
+MOZ2003,urban
+NAM2006,urban
+NPL2006,urban
+NER2006,urban
+NGA2003,urban
+RWA2005,urban
+SWZ2006,urban
+TZA2004,urban
+TUR2003,urban
+UGA2006,urban
+ZMB2007,urban
+ZWE2005,urban
+GHA2008,urban
+NPL2011,urban
+SLE2008,urban
+TLS2009,urban
+COL2009,urban
+ETH2010,urban
+MDV2009,urban
+TZA2009,urban
+GUY2009,urban
+KEN2008,urban
+LSO2009,urban
+MWI2010,urban
+MDG2008,urban
+NGA2008,urban
+ARM2015,urban
+ETH2016,urban
+MWI2015,urban
+TZA2015,urban
+EGY2008,urban
+SEN2005,urban
+STP2008,urban
+PER2009,urban
+PER2010,urban
+PER2011,urban
+PER2012,urban
+PER2003,urban
+KHM2010,urban
+BDI2010,urban
+BGD2011,urban
+MOZ2011,urban
+ZWE2010,urban
+UGA2011,urban
+RWA2010,urban
+SEN2010,urban
+COG2011,urban
+HTI2012,urban
+GIN2012,urban
+NER2012,urban
+TJK2012,urban
+COM2012,urban
+NGA2013,urban
+TGO2013,urban
+JOR2012,urban
+KGZ2012,urban
+PAK2012,urban
+BEN2011,urban
+HND2011,urban
+ZAF2016,child_sex
+BEN2017,child_sex
+HTI2016,child_sex
+MDV2016,child_sex
+TUR2013,child_sex
+PAK2017,child_sex
+JOR2017,child_sex
+ALB2017,child_sex
+GIN2018,child_sex
+MLI2018,child_sex
+NGA2018,child_sex
+NAM2013,child_sex
+EGY2014,child_sex
+BGD2014,child_sex
+KHM2014,child_sex
+TCD2014,child_sex
+GHA2014,child_sex
+GTM2014,child_sex
+KEN2014,child_sex
+LSO2014,child_sex
+MMR2015,child_sex
+RWA2014,child_sex
+CIV2011,child_sex
+ALB2008,child_sex
+ARM2005,child_sex
+AZE2006,child_sex
+BGD2004,child_sex
+BGD2007,child_sex
+BEN2006,child_sex
+BOL2003,child_sex
+BFA2003,child_sex
+BFA2010,child_sex
+KHM2005,child_sex
+CMR2004,child_sex
+CMR2011,child_sex
+TCD2004,child_sex
+COL2004,child_sex
+COD2007,child_sex
+COG2005,child_sex
+EGY2005,child_sex
+ETH2005,child_sex
+GHA2003,child_sex
+GIN2005,child_sex
+HTI2005,child_sex
+HND2005,child_sex
+IND2005,child_sex
+JOR2007,child_sex
+KEN2003,child_sex
+LSO2004,child_sex
+LBR2006,child_sex
+MDG2003,child_sex
+MWI2004,child_sex
+MLI2006,child_sex
+MDA2005,child_sex
+MAR2003,child_sex
+MOZ2003,child_sex
+NAM2006,child_sex
+NPL2006,child_sex
+NER2006,child_sex
+NGA2003,child_sex
+RWA2005,child_sex
+SWZ2006,child_sex
+TZA2004,child_sex
+TUR2003,child_sex
+UGA2006,child_sex
+ZMB2007,child_sex
+ZWE2005,child_sex
+GHA2008,child_sex
+NPL2011,child_sex
+SLE2008,child_sex
+TLS2009,child_sex
+COL2009,child_sex
+ETH2010,child_sex
+MDV2009,child_sex
+TZA2009,child_sex
+GUY2009,child_sex
+KEN2008,child_sex
+LSO2009,child_sex
+MWI2010,child_sex
+MDG2008,child_sex
+NGA2008,child_sex
+ARM2015,child_sex
+ETH2016,child_sex
+MWI2015,child_sex
+TZA2015,child_sex
+EGY2008,child_sex
+SEN2005,child_sex
+STP2008,child_sex
+PER2009,child_sex
+PER2010,child_sex
+PER2011,child_sex
+PER2012,child_sex
+PER2003,child_sex
+KHM2010,child_sex
+BDI2010,child_sex
+BGD2011,child_sex
+MOZ2011,child_sex
+ZWE2010,child_sex
+UGA2011,child_sex
+RWA2010,child_sex
+SEN2010,child_sex
+COG2011,child_sex
+HTI2012,child_sex
+GIN2012,child_sex
+NER2012,child_sex
+TJK2012,child_sex
+COM2012,child_sex
+NGA2013,child_sex
+TGO2013,child_sex
+JOR2012,child_sex
+KGZ2012,child_sex
+PAK2012,child_sex
+BEN2011,child_sex
+HND2011,child_sex
+ZAF2016,mother_age_at_birth_binned
+BEN2017,mother_age_at_birth_binned
+HTI2016,mother_age_at_birth_binned
+MDV2016,mother_age_at_birth_binned
+TUR2013,mother_age_at_birth_binned
+PAK2017,mother_age_at_birth_binned
+JOR2017,mother_age_at_birth_binned
+ALB2017,mother_age_at_birth_binned
+GIN2018,mother_age_at_birth_binned
+MLI2018,mother_age_at_birth_binned
+NGA2018,mother_age_at_birth_binned
+NAM2013,mother_age_at_birth_binned
+EGY2014,mother_age_at_birth_binned
+BGD2014,mother_age_at_birth_binned
+KHM2014,mother_age_at_birth_binned
+TCD2014,mother_age_at_birth_binned
+GHA2014,mother_age_at_birth_binned
+GTM2014,mother_age_at_birth_binned
+KEN2014,mother_age_at_birth_binned
+LSO2014,mother_age_at_birth_binned
+MMR2015,mother_age_at_birth_binned
+RWA2014,mother_age_at_birth_binned
+CIV2011,mother_age_at_birth_binned
+ALB2008,mother_age_at_birth_binned
+ARM2005,mother_age_at_birth_binned
+AZE2006,mother_age_at_birth_binned
+BGD2004,mother_age_at_birth_binned
+BGD2007,mother_age_at_birth_binned
+BEN2006,mother_age_at_birth_binned
+BOL2003,mother_age_at_birth_binned
+BFA2003,mother_age_at_birth_binned
+BFA2010,mother_age_at_birth_binned
+KHM2005,mother_age_at_birth_binned
+CMR2004,mother_age_at_birth_binned
+CMR2011,mother_age_at_birth_binned
+TCD2004,mother_age_at_birth_binned
+COL2004,mother_age_at_birth_binned
+COD2007,mother_age_at_birth_binned
+COG2005,mother_age_at_birth_binned
+EGY2005,mother_age_at_birth_binned
+ETH2005,mother_age_at_birth_binned
+GHA2003,mother_age_at_birth_binned
+GIN2005,mother_age_at_birth_binned
+HTI2005,mother_age_at_birth_binned
+HND2005,mother_age_at_birth_binned
+IND2005,mother_age_at_birth_binned
+JOR2007,mother_age_at_birth_binned
+KEN2003,mother_age_at_birth_binned
+LSO2004,mother_age_at_birth_binned
+LBR2006,mother_age_at_birth_binned
+MDG2003,mother_age_at_birth_binned
+MWI2004,mother_age_at_birth_binned
+MLI2006,mother_age_at_birth_binned
+MDA2005,mother_age_at_birth_binned
+MAR2003,mother_age_at_birth_binned
+MOZ2003,mother_age_at_birth_binned
+NAM2006,mother_age_at_birth_binned
+NPL2006,mother_age_at_birth_binned
+NER2006,mother_age_at_birth_binned
+NGA2003,mother_age_at_birth_binned
+RWA2005,mother_age_at_birth_binned
+SWZ2006,mother_age_at_birth_binned
+TZA2004,mother_age_at_birth_binned
+TUR2003,mother_age_at_birth_binned
+UGA2006,mother_age_at_birth_binned
+ZMB2007,mother_age_at_birth_binned
+ZWE2005,mother_age_at_birth_binned
+GHA2008,mother_age_at_birth_binned
+NPL2011,mother_age_at_birth_binned
+SLE2008,mother_age_at_birth_binned
+TLS2009,mother_age_at_birth_binned
+COL2009,mother_age_at_birth_binned
+ETH2010,mother_age_at_birth_binned
+MDV2009,mother_age_at_birth_binned
+TZA2009,mother_age_at_birth_binned
+GUY2009,mother_age_at_birth_binned
+KEN2008,mother_age_at_birth_binned
+LSO2009,mother_age_at_birth_binned
+MWI2010,mother_age_at_birth_binned
+MDG2008,mother_age_at_birth_binned
+NGA2008,mother_age_at_birth_binned
+ARM2015,mother_age_at_birth_binned
+ETH2016,mother_age_at_birth_binned
+MWI2015,mother_age_at_birth_binned
+TZA2015,mother_age_at_birth_binned
+EGY2008,mother_age_at_birth_binned
+SEN2005,mother_age_at_birth_binned
+STP2008,mother_age_at_birth_binned
+PER2009,mother_age_at_birth_binned
+PER2010,mother_age_at_birth_binned
+PER2011,mother_age_at_birth_binned
+PER2012,mother_age_at_birth_binned
+PER2003,mother_age_at_birth_binned
+KHM2010,mother_age_at_birth_binned
+BDI2010,mother_age_at_birth_binned
+BGD2011,mother_age_at_birth_binned
+MOZ2011,mother_age_at_birth_binned
+ZWE2010,mother_age_at_birth_binned
+UGA2011,mother_age_at_birth_binned
+RWA2010,mother_age_at_birth_binned
+SEN2010,mother_age_at_birth_binned
+COG2011,mother_age_at_birth_binned
+HTI2012,mother_age_at_birth_binned
+GIN2012,mother_age_at_birth_binned
+NER2012,mother_age_at_birth_binned
+TJK2012,mother_age_at_birth_binned
+COM2012,mother_age_at_birth_binned
+NGA2013,mother_age_at_birth_binned
+TGO2013,mother_age_at_birth_binned
+JOR2012,mother_age_at_birth_binned
+KGZ2012,mother_age_at_birth_binned
+PAK2012,mother_age_at_birth_binned
+BEN2011,mother_age_at_birth_binned
+HND2011,mother_age_at_birth_binned
+ZAF2016,std_year_born
+BEN2017,std_year_born
+HTI2016,std_year_born
+MDV2016,std_year_born
+TUR2013,std_year_born
+PAK2017,std_year_born
+JOR2017,std_year_born
+ALB2017,std_year_born
+GIN2018,std_year_born
+MLI2018,std_year_born
+NGA2018,std_year_born
+NAM2013,std_year_born
+EGY2014,std_year_born
+BGD2014,std_year_born
+KHM2014,std_year_born
+TCD2014,std_year_born
+GHA2014,std_year_born
+GTM2014,std_year_born
+KEN2014,std_year_born
+LSO2014,std_year_born
+MMR2015,std_year_born
+RWA2014,std_year_born
+CIV2011,std_year_born
+ALB2008,std_year_born
+ARM2005,std_year_born
+AZE2006,std_year_born
+BGD2004,std_year_born
+BGD2007,std_year_born
+BEN2006,std_year_born
+BOL2003,std_year_born
+BFA2003,std_year_born
+BFA2010,std_year_born
+KHM2005,std_year_born
+CMR2004,std_year_born
+CMR2011,std_year_born
+TCD2004,std_year_born
+COL2004,std_year_born
+COD2007,std_year_born
+COG2005,std_year_born
+EGY2005,std_year_born
+ETH2005,std_year_born
+GHA2003,std_year_born
+GIN2005,std_year_born
+HTI2005,std_year_born
+HND2005,std_year_born
+IND2005,std_year_born
+JOR2007,std_year_born
+KEN2003,std_year_born
+LSO2004,std_year_born
+LBR2006,std_year_born
+MDG2003,std_year_born
+MWI2004,std_year_born
+MLI2006,std_year_born
+MDA2005,std_year_born
+MAR2003,std_year_born
+MOZ2003,std_year_born
+NAM2006,std_year_born
+NPL2006,std_year_born
+NER2006,std_year_born
+NGA2003,std_year_born
+RWA2005,std_year_born
+SWZ2006,std_year_born
+TZA2004,std_year_born
+TUR2003,std_year_born
+UGA2006,std_year_born
+ZMB2007,std_year_born
+ZWE2005,std_year_born
+GHA2008,std_year_born
+NPL2011,std_year_born
+SLE2008,std_year_born
+TLS2009,std_year_born
+COL2009,std_year_born
+ETH2010,std_year_born
+MDV2009,std_year_born
+TZA2009,std_year_born
+GUY2009,std_year_born
+KEN2008,std_year_born
+LSO2009,std_year_born
+MWI2010,std_year_born
+MDG2008,std_year_born
+NGA2008,std_year_born
+ARM2015,std_year_born
+ETH2016,std_year_born
+MWI2015,std_year_born
+TZA2015,std_year_born
+EGY2008,std_year_born
+SEN2005,std_year_born
+STP2008,std_year_born
+PER2009,std_year_born
+PER2010,std_year_born
+PER2011,std_year_born
+PER2012,std_year_born
+PER2003,std_year_born
+KHM2010,std_year_born
+BDI2010,std_year_born
+BGD2011,std_year_born
+MOZ2011,std_year_born
+ZWE2010,std_year_born
+UGA2011,std_year_born
+RWA2010,std_year_born
+SEN2010,std_year_born
+COG2011,std_year_born
+HTI2012,std_year_born
+GIN2012,std_year_born
+NER2012,std_year_born
+TJK2012,std_year_born
+COM2012,std_year_born
+NGA2013,std_year_born
+TGO2013,std_year_born
+JOR2012,std_year_born
+KGZ2012,std_year_born
+PAK2012,std_year_born
+BEN2011,std_year_born
+HND2011,std_year_born
+ZAF2016,child_sex mother_age_at_birth_binned std_year_born
+BEN2017,child_sex mother_age_at_birth_binned std_year_born
+HTI2016,child_sex mother_age_at_birth_binned std_year_born
+MDV2016,child_sex mother_age_at_birth_binned std_year_born
+TUR2013,child_sex mother_age_at_birth_binned std_year_born
+PAK2017,child_sex mother_age_at_birth_binned std_year_born
+JOR2017,child_sex mother_age_at_birth_binned std_year_born
+ALB2017,child_sex mother_age_at_birth_binned std_year_born
+GIN2018,child_sex mother_age_at_birth_binned std_year_born
+MLI2018,child_sex mother_age_at_birth_binned std_year_born
+NGA2018,child_sex mother_age_at_birth_binned std_year_born
+NAM2013,child_sex mother_age_at_birth_binned std_year_born
+EGY2014,child_sex mother_age_at_birth_binned std_year_born
+BGD2014,child_sex mother_age_at_birth_binned std_year_born
+KHM2014,child_sex mother_age_at_birth_binned std_year_born
+TCD2014,child_sex mother_age_at_birth_binned std_year_born
+GHA2014,child_sex mother_age_at_birth_binned std_year_born
+GTM2014,child_sex mother_age_at_birth_binned std_year_born
+KEN2014,child_sex mother_age_at_birth_binned std_year_born
+LSO2014,child_sex mother_age_at_birth_binned std_year_born
+MMR2015,child_sex mother_age_at_birth_binned std_year_born
+RWA2014,child_sex mother_age_at_birth_binned std_year_born
+CIV2011,child_sex mother_age_at_birth_binned std_year_born
+ALB2008,child_sex mother_age_at_birth_binned std_year_born
+ARM2005,child_sex mother_age_at_birth_binned std_year_born
+AZE2006,child_sex mother_age_at_birth_binned std_year_born
+BGD2004,child_sex mother_age_at_birth_binned std_year_born
+BGD2007,child_sex mother_age_at_birth_binned std_year_born
+BEN2006,child_sex mother_age_at_birth_binned std_year_born
+BOL2003,child_sex mother_age_at_birth_binned std_year_born
+BFA2003,child_sex mother_age_at_birth_binned std_year_born
+BFA2010,child_sex mother_age_at_birth_binned std_year_born
+KHM2005,child_sex mother_age_at_birth_binned std_year_born
+CMR2004,child_sex mother_age_at_birth_binned std_year_born
+CMR2011,child_sex mother_age_at_birth_binned std_year_born
+TCD2004,child_sex mother_age_at_birth_binned std_year_born
+COL2004,child_sex mother_age_at_birth_binned std_year_born
+COD2007,child_sex mother_age_at_birth_binned std_year_born
+COG2005,child_sex mother_age_at_birth_binned std_year_born
+EGY2005,child_sex mother_age_at_birth_binned std_year_born
+ETH2005,child_sex mother_age_at_birth_binned std_year_born
+GHA2003,child_sex mother_age_at_birth_binned std_year_born
+GIN2005,child_sex mother_age_at_birth_binned std_year_born
+HTI2005,child_sex mother_age_at_birth_binned std_year_born
+HND2005,child_sex mother_age_at_birth_binned std_year_born
+IND2005,child_sex mother_age_at_birth_binned std_year_born
+JOR2007,child_sex mother_age_at_birth_binned std_year_born
+KEN2003,child_sex mother_age_at_birth_binned std_year_born
+LSO2004,child_sex mother_age_at_birth_binned std_year_born
+LBR2006,child_sex mother_age_at_birth_binned std_year_born
+MDG2003,child_sex mother_age_at_birth_binned std_year_born
+MWI2004,child_sex mother_age_at_birth_binned std_year_born
+MLI2006,child_sex mother_age_at_birth_binned std_year_born
+MDA2005,child_sex mother_age_at_birth_binned std_year_born
+MAR2003,child_sex mother_age_at_birth_binned std_year_born
+MOZ2003,child_sex mother_age_at_birth_binned std_year_born
+NAM2006,child_sex mother_age_at_birth_binned std_year_born
+NPL2006,child_sex mother_age_at_birth_binned std_year_born
+NER2006,child_sex mother_age_at_birth_binned std_year_born
+NGA2003,child_sex mother_age_at_birth_binned std_year_born
+RWA2005,child_sex mother_age_at_birth_binned std_year_born
+SWZ2006,child_sex mother_age_at_birth_binned std_year_born
+TZA2004,child_sex mother_age_at_birth_binned std_year_born
+TUR2003,child_sex mother_age_at_birth_binned std_year_born
+UGA2006,child_sex mother_age_at_birth_binned std_year_born
+ZMB2007,child_sex mother_age_at_birth_binned std_year_born
+ZWE2005,child_sex mother_age_at_birth_binned std_year_born
+GHA2008,child_sex mother_age_at_birth_binned std_year_born
+NPL2011,child_sex mother_age_at_birth_binned std_year_born
+SLE2008,child_sex mother_age_at_birth_binned std_year_born
+TLS2009,child_sex mother_age_at_birth_binned std_year_born
+COL2009,child_sex mother_age_at_birth_binned std_year_born
+ETH2010,child_sex mother_age_at_birth_binned std_year_born
+MDV2009,child_sex mother_age_at_birth_binned std_year_born
+TZA2009,child_sex mother_age_at_birth_binned std_year_born
+GUY2009,child_sex mother_age_at_birth_binned std_year_born
+KEN2008,child_sex mother_age_at_birth_binned std_year_born
+LSO2009,child_sex mother_age_at_birth_binned std_year_born
+MWI2010,child_sex mother_age_at_birth_binned std_year_born
+MDG2008,child_sex mother_age_at_birth_binned std_year_born
+NGA2008,child_sex mother_age_at_birth_binned std_year_born
+ARM2015,child_sex mother_age_at_birth_binned std_year_born
+ETH2016,child_sex mother_age_at_birth_binned std_year_born
+MWI2015,child_sex mother_age_at_birth_binned std_year_born
+TZA2015,child_sex mother_age_at_birth_binned std_year_born
+EGY2008,child_sex mother_age_at_birth_binned std_year_born
+SEN2005,child_sex mother_age_at_birth_binned std_year_born
+STP2008,child_sex mother_age_at_birth_binned std_year_born
+PER2009,child_sex mother_age_at_birth_binned std_year_born
+PER2010,child_sex mother_age_at_birth_binned std_year_born
+PER2011,child_sex mother_age_at_birth_binned std_year_born
+PER2012,child_sex mother_age_at_birth_binned std_year_born
+PER2003,child_sex mother_age_at_birth_binned std_year_born
+KHM2010,child_sex mother_age_at_birth_binned std_year_born
+BDI2010,child_sex mother_age_at_birth_binned std_year_born
+BGD2011,child_sex mother_age_at_birth_binned std_year_born
+MOZ2011,child_sex mother_age_at_birth_binned std_year_born
+ZWE2010,child_sex mother_age_at_birth_binned std_year_born
+UGA2011,child_sex mother_age_at_birth_binned std_year_born
+RWA2010,child_sex mother_age_at_birth_binned std_year_born
+SEN2010,child_sex mother_age_at_birth_binned std_year_born
+COG2011,child_sex mother_age_at_birth_binned std_year_born
+HTI2012,child_sex mother_age_at_birth_binned std_year_born
+GIN2012,child_sex mother_age_at_birth_binned std_year_born
+NER2012,child_sex mother_age_at_birth_binned std_year_born
+TJK2012,child_sex mother_age_at_birth_binned std_year_born
+COM2012,child_sex mother_age_at_birth_binned std_year_born
+NGA2013,child_sex mother_age_at_birth_binned std_year_born
+TGO2013,child_sex mother_age_at_birth_binned std_year_born
+JOR2012,child_sex mother_age_at_birth_binned std_year_born
+KGZ2012,child_sex mother_age_at_birth_binned std_year_born
+PAK2012,child_sex mother_age_at_birth_binned std_year_born
+BEN2011,child_sex mother_age_at_birth_binned std_year_born
+HND2011,child_sex mother_age_at_birth_binned std_year_born
+ZAF2016,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BEN2017,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+HTI2016,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MDV2016,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TUR2013,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PAK2017,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+JOR2017,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ALB2017,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GIN2018,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MLI2018,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NGA2018,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NAM2013,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+EGY2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BGD2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KHM2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TCD2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GHA2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GTM2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KEN2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+LSO2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MMR2015,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+RWA2014,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+CIV2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ALB2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ARM2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+AZE2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BGD2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BGD2007,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BEN2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BOL2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BFA2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BFA2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KHM2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+CMR2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+CMR2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TCD2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COL2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COD2007,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COG2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+EGY2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ETH2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GHA2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GIN2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+HTI2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+HND2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+IND2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+JOR2007,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KEN2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+LSO2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+LBR2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MDG2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MWI2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MLI2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MDA2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MAR2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MOZ2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NAM2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NPL2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NER2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NGA2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+RWA2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+SWZ2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TZA2004,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TUR2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+UGA2006,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ZMB2007,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ZWE2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GHA2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NPL2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+SLE2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TLS2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COL2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ETH2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MDV2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TZA2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GUY2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KEN2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+LSO2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MWI2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MDG2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NGA2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ARM2015,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ETH2016,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MWI2015,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TZA2015,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+EGY2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+SEN2005,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+STP2008,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PER2009,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PER2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PER2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PER2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PER2003,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KHM2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BDI2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BGD2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+MOZ2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ZWE2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+UGA2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+RWA2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+SEN2010,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COG2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+HTI2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+GIN2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NER2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TJK2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+COM2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+NGA2013,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+TGO2013,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+JOR2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+KGZ2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+PAK2012,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+BEN2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+HND2011,wealth_index_dhs_continuous urban mother_age_at_birth_binned std_year_born
+ZAF2016,wealth_index_dhs_continuous urban child_sex std_year_born
+BEN2017,wealth_index_dhs_continuous urban child_sex std_year_born
+HTI2016,wealth_index_dhs_continuous urban child_sex std_year_born
+MDV2016,wealth_index_dhs_continuous urban child_sex std_year_born
+TUR2013,wealth_index_dhs_continuous urban child_sex std_year_born
+PAK2017,wealth_index_dhs_continuous urban child_sex std_year_born
+JOR2017,wealth_index_dhs_continuous urban child_sex std_year_born
+ALB2017,wealth_index_dhs_continuous urban child_sex std_year_born
+GIN2018,wealth_index_dhs_continuous urban child_sex std_year_born
+MLI2018,wealth_index_dhs_continuous urban child_sex std_year_born
+NGA2018,wealth_index_dhs_continuous urban child_sex std_year_born
+NAM2013,wealth_index_dhs_continuous urban child_sex std_year_born
+EGY2014,wealth_index_dhs_continuous urban child_sex std_year_born
+BGD2014,wealth_index_dhs_continuous urban child_sex std_year_born
+KHM2014,wealth_index_dhs_continuous urban child_sex std_year_born
+TCD2014,wealth_index_dhs_continuous urban child_sex std_year_born
+GHA2014,wealth_index_dhs_continuous urban child_sex std_year_born
+GTM2014,wealth_index_dhs_continuous urban child_sex std_year_born
+KEN2014,wealth_index_dhs_continuous urban child_sex std_year_born
+LSO2014,wealth_index_dhs_continuous urban child_sex std_year_born
+MMR2015,wealth_index_dhs_continuous urban child_sex std_year_born
+RWA2014,wealth_index_dhs_continuous urban child_sex std_year_born
+CIV2011,wealth_index_dhs_continuous urban child_sex std_year_born
+ALB2008,wealth_index_dhs_continuous urban child_sex std_year_born
+ARM2005,wealth_index_dhs_continuous urban child_sex std_year_born
+AZE2006,wealth_index_dhs_continuous urban child_sex std_year_born
+BGD2004,wealth_index_dhs_continuous urban child_sex std_year_born
+BGD2007,wealth_index_dhs_continuous urban child_sex std_year_born
+BEN2006,wealth_index_dhs_continuous urban child_sex std_year_born
+BOL2003,wealth_index_dhs_continuous urban child_sex std_year_born
+BFA2003,wealth_index_dhs_continuous urban child_sex std_year_born
+BFA2010,wealth_index_dhs_continuous urban child_sex std_year_born
+KHM2005,wealth_index_dhs_continuous urban child_sex std_year_born
+CMR2004,wealth_index_dhs_continuous urban child_sex std_year_born
+CMR2011,wealth_index_dhs_continuous urban child_sex std_year_born
+TCD2004,wealth_index_dhs_continuous urban child_sex std_year_born
+COL2004,wealth_index_dhs_continuous urban child_sex std_year_born
+COD2007,wealth_index_dhs_continuous urban child_sex std_year_born
+COG2005,wealth_index_dhs_continuous urban child_sex std_year_born
+EGY2005,wealth_index_dhs_continuous urban child_sex std_year_born
+ETH2005,wealth_index_dhs_continuous urban child_sex std_year_born
+GHA2003,wealth_index_dhs_continuous urban child_sex std_year_born
+GIN2005,wealth_index_dhs_continuous urban child_sex std_year_born
+HTI2005,wealth_index_dhs_continuous urban child_sex std_year_born
+HND2005,wealth_index_dhs_continuous urban child_sex std_year_born
+IND2005,wealth_index_dhs_continuous urban child_sex std_year_born
+JOR2007,wealth_index_dhs_continuous urban child_sex std_year_born
+KEN2003,wealth_index_dhs_continuous urban child_sex std_year_born
+LSO2004,wealth_index_dhs_continuous urban child_sex std_year_born
+LBR2006,wealth_index_dhs_continuous urban child_sex std_year_born
+MDG2003,wealth_index_dhs_continuous urban child_sex std_year_born
+MWI2004,wealth_index_dhs_continuous urban child_sex std_year_born
+MLI2006,wealth_index_dhs_continuous urban child_sex std_year_born
+MDA2005,wealth_index_dhs_continuous urban child_sex std_year_born
+MAR2003,wealth_index_dhs_continuous urban child_sex std_year_born
+MOZ2003,wealth_index_dhs_continuous urban child_sex std_year_born
+NAM2006,wealth_index_dhs_continuous urban child_sex std_year_born
+NPL2006,wealth_index_dhs_continuous urban child_sex std_year_born
+NER2006,wealth_index_dhs_continuous urban child_sex std_year_born
+NGA2003,wealth_index_dhs_continuous urban child_sex std_year_born
+RWA2005,wealth_index_dhs_continuous urban child_sex std_year_born
+SWZ2006,wealth_index_dhs_continuous urban child_sex std_year_born
+TZA2004,wealth_index_dhs_continuous urban child_sex std_year_born
+TUR2003,wealth_index_dhs_continuous urban child_sex std_year_born
+UGA2006,wealth_index_dhs_continuous urban child_sex std_year_born
+ZMB2007,wealth_index_dhs_continuous urban child_sex std_year_born
+ZWE2005,wealth_index_dhs_continuous urban child_sex std_year_born
+GHA2008,wealth_index_dhs_continuous urban child_sex std_year_born
+NPL2011,wealth_index_dhs_continuous urban child_sex std_year_born
+SLE2008,wealth_index_dhs_continuous urban child_sex std_year_born
+TLS2009,wealth_index_dhs_continuous urban child_sex std_year_born
+COL2009,wealth_index_dhs_continuous urban child_sex std_year_born
+ETH2010,wealth_index_dhs_continuous urban child_sex std_year_born
+MDV2009,wealth_index_dhs_continuous urban child_sex std_year_born
+TZA2009,wealth_index_dhs_continuous urban child_sex std_year_born
+GUY2009,wealth_index_dhs_continuous urban child_sex std_year_born
+KEN2008,wealth_index_dhs_continuous urban child_sex std_year_born
+LSO2009,wealth_index_dhs_continuous urban child_sex std_year_born
+MWI2010,wealth_index_dhs_continuous urban child_sex std_year_born
+MDG2008,wealth_index_dhs_continuous urban child_sex std_year_born
+NGA2008,wealth_index_dhs_continuous urban child_sex std_year_born
+ARM2015,wealth_index_dhs_continuous urban child_sex std_year_born
+ETH2016,wealth_index_dhs_continuous urban child_sex std_year_born
+MWI2015,wealth_index_dhs_continuous urban child_sex std_year_born
+TZA2015,wealth_index_dhs_continuous urban child_sex std_year_born
+EGY2008,wealth_index_dhs_continuous urban child_sex std_year_born
+SEN2005,wealth_index_dhs_continuous urban child_sex std_year_born
+STP2008,wealth_index_dhs_continuous urban child_sex std_year_born
+PER2009,wealth_index_dhs_continuous urban child_sex std_year_born
+PER2010,wealth_index_dhs_continuous urban child_sex std_year_born
+PER2011,wealth_index_dhs_continuous urban child_sex std_year_born
+PER2012,wealth_index_dhs_continuous urban child_sex std_year_born
+PER2003,wealth_index_dhs_continuous urban child_sex std_year_born
+KHM2010,wealth_index_dhs_continuous urban child_sex std_year_born
+BDI2010,wealth_index_dhs_continuous urban child_sex std_year_born
+BGD2011,wealth_index_dhs_continuous urban child_sex std_year_born
+MOZ2011,wealth_index_dhs_continuous urban child_sex std_year_born
+ZWE2010,wealth_index_dhs_continuous urban child_sex std_year_born
+UGA2011,wealth_index_dhs_continuous urban child_sex std_year_born
+RWA2010,wealth_index_dhs_continuous urban child_sex std_year_born
+SEN2010,wealth_index_dhs_continuous urban child_sex std_year_born
+COG2011,wealth_index_dhs_continuous urban child_sex std_year_born
+HTI2012,wealth_index_dhs_continuous urban child_sex std_year_born
+GIN2012,wealth_index_dhs_continuous urban child_sex std_year_born
+NER2012,wealth_index_dhs_continuous urban child_sex std_year_born
+TJK2012,wealth_index_dhs_continuous urban child_sex std_year_born
+COM2012,wealth_index_dhs_continuous urban child_sex std_year_born
+NGA2013,wealth_index_dhs_continuous urban child_sex std_year_born
+TGO2013,wealth_index_dhs_continuous urban child_sex std_year_born
+JOR2012,wealth_index_dhs_continuous urban child_sex std_year_born
+KGZ2012,wealth_index_dhs_continuous urban child_sex std_year_born
+PAK2012,wealth_index_dhs_continuous urban child_sex std_year_born
+BEN2011,wealth_index_dhs_continuous urban child_sex std_year_born
+HND2011,wealth_index_dhs_continuous urban child_sex std_year_born
+ZAF2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BEN2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+HTI2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MDV2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TUR2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PAK2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+JOR2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ALB2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GIN2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MLI2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NGA2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NAM2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+EGY2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BGD2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KHM2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TCD2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GHA2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GTM2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KEN2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+LSO2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MMR2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+RWA2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+CIV2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ALB2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ARM2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+AZE2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BGD2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BGD2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BEN2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BOL2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BFA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BFA2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KHM2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+CMR2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+CMR2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TCD2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COL2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COD2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COG2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+EGY2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ETH2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GHA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GIN2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+HTI2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+HND2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+IND2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+JOR2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KEN2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+LSO2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+LBR2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MDG2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MWI2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MLI2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MDA2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MAR2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MOZ2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NAM2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NPL2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NER2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NGA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+RWA2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+SWZ2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TZA2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TUR2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+UGA2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ZMB2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ZWE2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GHA2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NPL2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+SLE2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TLS2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COL2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ETH2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MDV2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TZA2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GUY2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KEN2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+LSO2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MWI2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MDG2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NGA2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ARM2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ETH2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MWI2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TZA2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+EGY2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+SEN2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+STP2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PER2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PER2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PER2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PER2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PER2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KHM2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BDI2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BGD2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+MOZ2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ZWE2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+UGA2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+RWA2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+SEN2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COG2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+HTI2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+GIN2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NER2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TJK2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+COM2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+NGA2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+TGO2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+JOR2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+KGZ2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+PAK2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+BEN2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+HND2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned
+ZAF2016,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BEN2017,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+HTI2016,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MDV2016,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TUR2013,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PAK2017,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+JOR2017,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ALB2017,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GIN2018,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MLI2018,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NGA2018,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NAM2013,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+EGY2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BGD2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KHM2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TCD2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GHA2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GTM2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KEN2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+LSO2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MMR2015,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+RWA2014,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+CIV2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ALB2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ARM2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+AZE2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BGD2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BGD2007,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BEN2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BOL2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BFA2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BFA2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KHM2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+CMR2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+CMR2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TCD2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COL2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COD2007,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COG2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+EGY2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ETH2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GHA2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GIN2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+HTI2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+HND2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+IND2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+JOR2007,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KEN2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+LSO2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+LBR2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MDG2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MWI2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MLI2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MDA2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MAR2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MOZ2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NAM2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NPL2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NER2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NGA2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+RWA2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+SWZ2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TZA2004,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TUR2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+UGA2006,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ZMB2007,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ZWE2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GHA2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NPL2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+SLE2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TLS2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COL2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ETH2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MDV2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TZA2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GUY2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KEN2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+LSO2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MWI2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MDG2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NGA2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ARM2015,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ETH2016,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MWI2015,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TZA2015,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+EGY2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+SEN2005,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+STP2008,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PER2009,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PER2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PER2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PER2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PER2003,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KHM2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BDI2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BGD2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+MOZ2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ZWE2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+UGA2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+RWA2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+SEN2010,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COG2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+HTI2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+GIN2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NER2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TJK2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+COM2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+NGA2013,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+TGO2013,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+JOR2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+KGZ2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+PAK2012,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+BEN2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+HND2011,wealth_index_dhs_continuous child_sex mother_age_at_birth_binned std_year_born
+ZAF2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BEN2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+HTI2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MDV2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TUR2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PAK2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+JOR2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ALB2017,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GIN2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MLI2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NGA2018,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NAM2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+EGY2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BGD2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KHM2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TCD2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GHA2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GTM2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KEN2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+LSO2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MMR2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+RWA2014,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+CIV2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ALB2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ARM2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+AZE2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BGD2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BGD2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BEN2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BOL2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BFA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BFA2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KHM2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+CMR2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+CMR2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TCD2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COL2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COD2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COG2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+EGY2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ETH2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GHA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GIN2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+HTI2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+HND2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+IND2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+JOR2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KEN2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+LSO2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+LBR2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MDG2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MWI2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MLI2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MDA2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MAR2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MOZ2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NAM2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NPL2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NER2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NGA2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+RWA2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+SWZ2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TZA2004,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TUR2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+UGA2006,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ZMB2007,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ZWE2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GHA2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NPL2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+SLE2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TLS2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COL2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ETH2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MDV2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TZA2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GUY2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KEN2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+LSO2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MWI2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MDG2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NGA2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ARM2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ETH2016,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MWI2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TZA2015,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+EGY2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+SEN2005,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+STP2008,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PER2009,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PER2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PER2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PER2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PER2003,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KHM2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BDI2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BGD2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+MOZ2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+ZWE2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+UGA2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+RWA2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+SEN2010,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COG2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+HTI2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+GIN2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NER2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TJK2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+COM2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+NGA2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+TGO2013,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+JOR2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+KGZ2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+PAK2012,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+BEN2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
+HND2011,wealth_index_dhs_continuous urban child_sex mother_age_at_birth_binned std_year_born
